@@ -1,0 +1,33 @@
+body{
+	margin:auto;
+	background-color: ;
+
+
+}
+table{
+	
+	float:center;
+	text-align: left;
+}
+td {
+	font-size: 18px;
+	text-align: ;
+	height: 250px;
+	width:500px;
+	
+	border-collapse: collapse;
+}
+label{
+	font-size: 18px;
+
+}.hit{
+	background-color: #66ccff;
+	height: 20px;
+	width:50px;
+}
+p{
+	font-size: 24px;
+}
+.text1{
+	width:50px;
+}
